@@ -27,7 +27,7 @@ Configuring your applications
 
 Add this line to `ProjectConfiguration::setup()` method:
 
-  $this->enablePlugins('sfCSSNakedDayPlugin');
+	$this->enablePlugins('sfCSSNakedDayPlugin');
 
 
 Usage
